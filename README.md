@@ -1,5 +1,5 @@
 # kuet_durbar
-
+I have written the code for ease of controlling the rover. It simplifies the main program. I utilized features like OOP, pointer in the program. 
 
 ## Clone the project
 
